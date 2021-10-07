@@ -1,0 +1,8 @@
+spring:
+  profile: dev
+  amap:
+    key: 5b35c3d7e0846f819b3f4d49b9f086e9
+server:
+  tomcat:
+    relaxed-query-chars: ['|','{','}','[',']']
+    relaxed-path-chars: ['|','{','}','[',']']
